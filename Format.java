@@ -9,7 +9,7 @@ public class Format {
         this.gui = gui;
     }
 
-    public void wordWrap(){
+    public void wordWrap(){  
 
         if(!gui.wordWrapOn){
             gui.wordWrapOn = true;
