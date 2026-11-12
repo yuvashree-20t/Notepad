@@ -3,7 +3,7 @@ import java.util.GregorianCalendar;
 
 public class Edit {
     GUI gui;
-    public Edit(GUI gui){
+    public Edit(GUI gui){ 
         this.gui = gui;
     }
 
